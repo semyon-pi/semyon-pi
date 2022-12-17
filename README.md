@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @semyon-pi
-- 👀 I’m interested in software & harware
+- 👀 I’m interested in software & hardware
 - 🌱 I’m currently learning rust / threejs / and working on react projects
 - 💞️ I’m looking to collaborate on something intersting
 - 📫 How to reach me :text me on linked in at https://www.linkedin.com/in/semyonpinhasov/
